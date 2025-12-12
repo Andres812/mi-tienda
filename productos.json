@@ -1,0 +1,7 @@
+[
+  { "id": 1, "nombre": "Mouse Gamer RGB", "precio": 350 },
+  { "id": 2, "nombre": "Teclado Mecánico Blue Switch", "precio": 890 },
+  { "id": 3, "nombre": "Audífonos Bluetooth", "precio": 620 },
+  { "id": 4, "nombre": "Monitor 24'' 144Hz", "precio": 2890 },
+  { "id": 5, "nombre": "Silla Gamer Azul", "precio": 3100 }
+]
